@@ -1,0 +1,26 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":550,
+	"fade_out":550,
+	"params":[
+		{"id":"PARAM_EYE_L_OPEN","val":-1.5,"def":1},
+		{"id":"PARAM_EYE_L_FORM","val":1},
+		{"id":"PARAM_EYE_R_OPEN","val":-1.5,"def":1},
+		{"id":"PARAM_EYE_R_FORM","val":1},
+		{"id":"PARAM_BROW_L_Y","val":-1},
+		{"id":"PARAM_BROW_R_Y","val":-1},
+		{"id":"PARAM_BROW_L_X","val":-0.02},
+		{"id":"PARAM_BROW_R_X","val":-0.02},
+		{"id":"PARAM_BROW_L_ANGLE","val":0.28},
+		{"id":"PARAM_BROW_R_ANGLE","val":0.28},
+		{"id":"PARAM_BROW_L_FORM","val":-4},
+		{"id":"PARAM_BROW_R_FORM","val":-4},
+		{"id":"PARAM_MOUTH_FORM","val":-1},
+		{"id":"PARAM_MOUTH_FORM_02","val":1},
+		{"id":"PARAM_CHEEK","val":1},
+		{"id":"PARAM_HAIR_EAR_R","val":-9},
+		{"id":"PARAM_HAIR_EAR_R_Y","val":-10,"def":10},
+		{"id":"PARAM_HAIR_EAR_L","val":-9},
+		{"id":"PARAM_HAIR_EAR_L_Y","val":-10,"def":10}
+	]
+}
