@@ -1,0 +1,298 @@
+{
+  "spark_gear_data": [
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 1, 
+          "parent_bone": "vfx_front2", 
+          "bone": "d01_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d01"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 2, 
+          "parent_bone": "vfx_rear2", 
+          "bone": "d02_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d02"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 3, 
+          "parent_bone": "vfx_name", 
+          "bone": "d03_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d03"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 4, 
+          "parent_bone": "vfx_dropF", 
+          "bone": "d04_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d04"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 5, 
+          "parent_bone": "vfx_dropR", 
+          "bone": "d05_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d05"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 6, 
+          "parent_bone": "vfx_appEye", 
+          "bone": "d06_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d06"
+    }, 
+    {
+      "movement_id_list": [
+        "IN01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 7, 
+          "parent_bone": "vfx_front2", 
+          "bone": "d07_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d07", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "IN01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 8, 
+          "parent_bone": "vfx_rear2", 
+          "bone": "d08_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d08", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "IN01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 9, 
+          "parent_bone": "vfx_SDeyeL", 
+          "bone": "d09_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d09", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "IN01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 10, 
+          "parent_bone": "vfx_SDeyeR", 
+          "bone": "d10_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d10", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "IN01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 11, 
+          "parent_bone": "vfx_eye", 
+          "bone": "d11_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d11", 
+      "is_need_sd": false
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 12, 
+          "parent_bone": "vfx_beam1", 
+          "bone": "d12_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d12"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 13, 
+          "parent_bone": "vfx_beam2", 
+          "bone": "d13_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d13"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 14, 
+          "parent_bone": "vfx_beam3", 
+          "bone": "d14_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d14"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 15, 
+          "parent_bone": "vfx_beam4", 
+          "bone": "d15_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d15"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 16, 
+          "parent_bone": "vfx_beam5", 
+          "bone": "d16_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d16"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 17, 
+          "parent_bone": "vfx_beam6", 
+          "bone": "d17_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d17"
+    }, 
+    {
+      "movement_id_list": [
+        "vfxOUTF01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 18, 
+          "parent_bone": "vfx_front", 
+          "bone": "d18_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d18", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "vfxOUTR01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 19, 
+          "parent_bone": "vfx_front", 
+          "bone": "d19_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d19", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "vfxOUTbeamF"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 20, 
+          "parent_bone": "vfx_front", 
+          "bone": "d20_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d20", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "vfxOUTbeamR"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 21, 
+          "parent_bone": "vfx_front", 
+          "bone": "d21_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d21", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "vfxOUThit"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 22, 
+          "parent_bone": "vfx_front", 
+          "bone": "d22_0", 
+          "name": "mini_302200_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d22", 
+      "is_need_sd": false
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "spark_gear_data": [
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 1, 
+          "parent_bone": "vfx_bg", 
+          "bone": "d01_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d01"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 2, 
+          "parent_bone": "vfx_dp_f", 
+          "bone": "d02_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d02"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 3, 
+          "parent_bone": "vfx_dp_r", 
+          "bone": "d03_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d03"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 4, 
+          "parent_bone": "vfx_name", 
+          "bone": "d04_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d04"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 5, 
+          "parent_bone": "vfx_sand_f", 
+          "bone": "d05_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d05"
+    }, 
+    {
+      "is_need_sd": true, 
+      "ef_list": [
+        {
+          "trigger": 6, 
+          "parent_bone": "vfx_sand_r", 
+          "bone": "d06_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d06"
+    }, 
+    {
+      "movement_id_list": [
+        "sand00"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 7, 
+          "parent_bone": "vfx_front", 
+          "bone": "d07_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d07", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "sand01"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 8, 
+          "parent_bone": "vfx_front", 
+          "bone": "d08_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d08", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "kirin"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 9, 
+          "parent_bone": "vfx_front", 
+          "bone": "d09_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d09", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "OUT00"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 10, 
+          "parent_bone": "vfx_ball", 
+          "bone": "d10_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d10", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "hita"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 11, 
+          "parent_bone": "vfx_front", 
+          "bone": "d11_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d11", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "hitb"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 12, 
+          "parent_bone": "vfx_front", 
+          "bone": "d12_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d12", 
+      "is_need_sd": false
+    }, 
+    {
+      "movement_id_list": [
+        "OUT00"
+      ], 
+      "ef_list": [
+        {
+          "trigger": 13, 
+          "parent_bone": "vfx_ball_r", 
+          "bone": "d13_0", 
+          "name": "mini_105100_d_r_ef00.vfxb"
+        }
+      ], 
+      "keyframe": "d13", 
+      "is_need_sd": false
+    }
+  ]
+}
