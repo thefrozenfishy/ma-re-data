@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>chart_film03_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1237,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{1237,31}}</string>
+				<key>sourceSize</key>
+				<string>{1239,33}</string>
+			</dict>
+
+			<key>chart_film04_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,32},{1237,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{1237,31}}</string>
+				<key>sourceSize</key>
+				<string>{1239,33}</string>
+			</dict>
+
+			<key>chart_plate03_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{469,64},{142,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{142,38}}</string>
+				<key>sourceSize</key>
+				<string>{142,38}</string>
+			</dict>
+
+			<key>chart_plate04_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{326,64},{142,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{142,38}}</string>
+				<key>sourceSize</key>
+				<string>{142,38}</string>
+			</dict>
+
+			<key>film_button03_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1321,0},{82,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{82,120}}</string>
+				<key>sourceSize</key>
+				<string>{82,120}</string>
+			</dict>
+
+			<key>film_button04_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1238,0},{82,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{82,120}}</string>
+				<key>sourceSize</key>
+				<string>{82,120}</string>
+			</dict>
+
+			<key>film_plate03_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,64},{162,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{162,48}}</string>
+				<key>sourceSize</key>
+				<string>{162,48}</string>
+			</dict>
+
+			<key>film_plate04_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,64},{162,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{162,48}}</string>
+				<key>sourceSize</key>
+				<string>{162,48}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,128}</string>
+			<key>textureFileName</key>
+			<string>ui_scene0_story03_1.png</string>
+			</dict>
+		</dict>
+</plist>

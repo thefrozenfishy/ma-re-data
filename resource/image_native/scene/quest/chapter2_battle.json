@@ -1,0 +1,23 @@
+{
+    "game_clear": 6,
+    "game_over": 6,
+    "success_hp": 3,
+    "failure_hp": 1,
+    "voice_list": [
+        "fullvoice/section_103305/vo_full_103305-2-1",
+        "fullvoice/section_103305/vo_full_103305-2-2",
+        "fullvoice/section_103305/vo_full_103305-2-3",
+        "fullvoice/section_103305/vo_full_103305-2-4",
+        "fullvoice/section_103305/vo_full_103305-2-5",
+        "fullvoice/section_103305/vo_full_103305-2-6",
+        "fullvoice/section_103305/vo_full_103305-2-7",
+        "fullvoice/section_103305/vo_full_103305-2-8",
+        "fullvoice/section_103305/vo_full_103305-2-9",
+        "fullvoice/section_103305/vo_full_103305-2-10",
+        "fullvoice/section_103305/vo_full_103305-2-11",
+        "fullvoice/section_103305/vo_full_103305-2-12",
+        "fullvoice/section_103305/vo_full_103305-2-13"
+    ],
+    "bgm": "bgm22_battle01",
+    "voice_rate": 100
+}
